@@ -2,7 +2,7 @@
 Coming from a movie named 'Inception',"We need to go deeper"implies my dedicated determination in deep learning.I hope some day in the near future I would hold my beloved girl's hand and whisper in her ears with this classic lines.
 
 Being a totally freshman in deeplearning,I am unfortunately told I am about to gradute from school in like a year(maybe longer even never lol). 
-Fancied by the magic of AI(high salary offer), I decide to take part in the flood of DL though my major is called somewhat Biosystem Engineering shit.I take no advantage in CS,whereas,I gotta make a damn plan to dealing with my weakness meanwhile recording my learning track.So this is more like a diary for recording what I've learned today.Even for some occasions I don't keep diary Like dating a fancy girl,having a hangover even being desperate for my goddamn life,I hope DL never goes die,nether will my fucking diary.
+Fancied by the magic of AI(high salary offer), I decide to take part in the flood of DL though my major is called somewhat Biosystem Engineering shit.I take no advantage in CS,whereas,I gotta make a damn plan to deal with my weakness meanwhile recording my learning track.So this is more like a diary for recording what I've learned today.Even for some occasions I don't keep diary Like dating a fancy girl,having a hangover even being desperate for my goddamn life.I hope DL never goes die nether will my fucking diary.
 
 I'll catch U guys up soon,U bunch of motherfuckers.
 
